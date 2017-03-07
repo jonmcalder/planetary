@@ -1,0 +1,13 @@
+dependencies:
+- name: d3
+  version: 3.5.17
+  src: htmlwidgets/lib/d3
+  script: ./d3.min.js
+- name: topojson
+  version: 1.8.0
+  src: htmlwidgets/lib/topojson
+  script: ./topojson.min.js
+- name: planetary.js
+  version: 1.1.2
+  src: htmlwidgets/lib/planetary.js
+  script: dist/planetaryjs.min.js
