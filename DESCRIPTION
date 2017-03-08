@@ -6,6 +6,8 @@ Author: Jon Calder
 Maintainer: Jon Calder <jonmcalder@gmail.com>
 Description: Planetary: Awesome interactive globes for the web
 Depends: R (>= 3.1.0)
+Imports: htmlwidgets
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
