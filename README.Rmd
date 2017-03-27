@@ -59,7 +59,7 @@ devtools::install_github("jonmcalder/planetary")
 
 Simple rotating planet example with random pings - also draggable and zoomable.
 
-```{r example}
+```{r example, eval=FALSE}
 library(planetary)
 planetary(rotate = 10)
 ```

@@ -8,3 +8,5 @@ r_packages:
   - covr
 after_success:
   - Rscript -e 'library(covr); codecov()'
+notifications:
+  slack: rcollaborators:vsKVUWorGw2xKn9H0yhPIC36
